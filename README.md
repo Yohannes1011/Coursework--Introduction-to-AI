@@ -1,2 +1,1 @@
-# Coursework: Introduction to AI
- This is My coursework for AI
+This is My coursework, The files in here are python files that I coded on spyder. Preferably please use Spyder and either download the code or copy and paste it in. Please do each problem on a seperate page.
